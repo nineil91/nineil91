@@ -1,4 +1,4 @@
- <p style="text-align:center;"><strong>Sumin Jin</strong></p>
+ <p style="text-align:center; background-color : #E5CCFF; color : #190033"><strong>Sumin Jin</strong></p>
 
 
 <!--
