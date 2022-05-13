@@ -1,4 +1,5 @@
-### Sumin Jin👋
+ <p style="text-align:center;"><b>Sumin Jin</b></p>
+
 
 <!--
 **nineil91/nineil91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
