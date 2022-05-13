@@ -1,4 +1,4 @@
- <p style="text-align:center;"><b>Sumin Jin</b></p>
+ <p style="text-align:center;"><strong>Sumin Jin</strong></p>
 
 
 <!--
