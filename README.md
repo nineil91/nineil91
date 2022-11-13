@@ -9,8 +9,6 @@
 - Quantum Machine Learning
 - Quantum Information
 
-#### 🎈 Side Project 🎈
-- Software Synthesier (doing)
 
 <!--
 **nineil91/nineil91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
