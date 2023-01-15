@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Sumin Jin
 #### Interest
-⚛ Quantum Machine Learning 
-💻 Major: Software Engineering 
-📐 Minor: Electronics Engineering
+- ⚛ Quantum Machine Learning 
+- 💻 Major: Software Engineering 
+- 📐 Minor: Electronics Engineering
 
 
 #### 💻 Programming 💻
