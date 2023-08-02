@@ -8,12 +8,12 @@
 #### 💻 Programming 💻
  - python
  - Quantum Computing SDK
- <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=Qiskit&logoColor=black"/> <img src="https://img.shields.io/badge/-Cirq-F8BA03?style=flat-square"/> <img src="https://img.shields.io/badge/-PennyLane-0FE49A?style=flat-square"/>
+ <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=Qiskit&logoColor=black"/> <img src="https://img.shields.io/badge/-PennyLane-0FE49A?style=flat-square"/>
 
 #### 📚 Studying 📚
-- Classical Machine Learning
-- Quantum Machine Learning
 - Quantum Information
+- Quantum Machine Learning
+- Classical Machine Learning
 
 
 <!--
